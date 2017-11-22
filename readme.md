@@ -1,11 +1,11 @@
-JVM Resources & Cert.
+# JVM Resources & Cert.
 
-Java resources
-
-
+## Java resources
 
 
-Testing techniques and frameworks
+
+
+## Testing techniques and frameworks
 1. [Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
 2. Selenium
 3. Unit Testing (JUnit etc.)
@@ -23,21 +23,21 @@ Testing techniques and frameworks
 
 
 
-Integration 
+## Integration 
 1. Apache Ant 
 2. Apache Maven 
 3. Gradle
 
 
 
-Servers
+## Servers
 1. Tomcat
 2. Wildfly
 3. NGINX
 
 
 
-Object Relational Mapping tools (ORM)
+## Object Relational Mapping tools (ORM)
 1. Hibernate
 2. JOOQ
 3. JPA
@@ -48,7 +48,7 @@ Object Relational Mapping tools (ORM)
 
 
 
-Java websites
+## Java websites
 1. Javaworld
 2. Java Code Geeks
 3. InfoQ | Java
@@ -61,7 +61,7 @@ Java websites
 
 
 
-Java blogs
+## Java blogs
 1. [(10 Java Experts and Devs to Follow (November 2017)](https://dzone.com/articles/10-java-experts-and-developers-to-follow-on-social)
 2. [The Ultimate List of Software Developer Blogs (November 2017)](https://simpleprogrammer.com/2017/11/01/ultimate-list-software-developer-blogs#a8)
 3. [Top 10 Java Blogs for Programmers of All Levels (October 2017)](https://stackify.com/java-blogs-for-programmers-of-all-levels/)
@@ -75,13 +75,13 @@ Java blogs
 
 
 
-Java developers
+## Java developers
 1. [Eugen Paraschiv](http://www.baeldung.com/)
 2. [Nicolas Frankel](http://blog.frankel.ch)
 
 
 
-Books
+## Books
 1. Clean Code
 2. Clean Architecture
 3. Essential Java
