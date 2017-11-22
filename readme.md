@@ -1,7 +1,9 @@
 # JVM Resources & Cert.
 
 ## Java resources
-
+1. [Java 7](https://docs.oracle.com/javase/7/docs/)
+2. [Java 8](https://docs.oracle.com/javase/8/docs/)
+3. [Java 9](https://docs.oracle.com/javase/9/docs/)
 
 
 
@@ -20,6 +22,7 @@
 12. TestNG
 13. Apache JMeter
 14. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
+15. JConsole (Packaged with JDK)
 
 
 
