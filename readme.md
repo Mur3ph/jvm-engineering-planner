@@ -1,6 +1,67 @@
 JVM Resources & Cert.
 
 Java resources
+
+
+
+
+Testing techniques and frameworks
+1. [Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
+2. Selenium
+3. Unit Testing (JUnit etc.)
+4. JRat
+5. Mockito
+6. FindBugs
+7. SonarQube
+8. Browser debugging
+9. Web services - Postman, Fiddler
+10. Cucumber 
+11. Serenity
+12. TestNG
+13. Apache JMeter
+14. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
+
+
+
+Integration 
+1. Apache Ant 
+2. Apache Maven 
+3. Gradle
+
+
+
+Servers
+1. Tomcat
+2. Wildfly
+3. NGINX
+
+
+
+Object Relational Mapping tools (ORM)
+1. Hibernate
+2. JOOQ
+3. JPA
+4. JDBC
+5. SimpleORM
+6. Eclipse Link
+
+
+
+
+Java websites
+1. Javaworld
+2. Java Code Geeks
+3. InfoQ | Java
+4. Javalobby
+5. The Server Side
+6. Jaxenter | Java
+7. The Spring Blog
+8. DeveloperWorks: Java technology
+9. Voxxed
+
+
+
+Java blogs
 1. [(10 Java Experts and Devs to Follow (November 2017)](https://dzone.com/articles/10-java-experts-and-developers-to-follow-on-social)
 2. [The Ultimate List of Software Developer Blogs (November 2017)](https://simpleprogrammer.com/2017/11/01/ultimate-list-software-developer-blogs#a8)
 3. [Top 10 Java Blogs for Programmers of All Levels (October 2017)](https://stackify.com/java-blogs-for-programmers-of-all-levels/)
@@ -14,8 +75,17 @@ Java resources
 
 
 
-Testing resources
-1. [Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
+Java developers
+1. [Eugen Paraschiv](http://www.baeldung.com/)
+2. [Nicolas Frankel](http://blog.frankel.ch)
+
+
+
+Books
+1. Clean Code
+2. Clean Architecture
+3. Essential Java
+
 
 
 
