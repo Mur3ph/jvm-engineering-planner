@@ -10,18 +10,20 @@
 ## Testing techniques and frameworks
 1. [Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
 2. Selenium
-3. Unit Testing (JUnit etc.)
+3. Unit Testing (JUnit, NUnit etc.)
 4. JRat
 5. Mockito
 6. FindBugs
 7. SonarQube
-8. Browser debugging
+8. Browser debugging (Console, Firebug etc.)
 9. Web services - Postman, Fiddler
 10. Cucumber 
 11. Serenity
 12. TestNG
 13. Apache JMeter
 14. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
+15. SoapUI
+
 
 
 ### Monitoring tools
