@@ -22,7 +22,11 @@
 12. TestNG
 13. Apache JMeter
 14. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
-15. JConsole (Packaged with JDK)
+
+
+### Monitoring tools
+1. JConsole (Packaged with JDK)
+2. Apache JMeter
 
 
 
