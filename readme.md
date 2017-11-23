@@ -7,7 +7,7 @@
 
 
 
-## Testing techniques and frameworks
+## Software Quality & Testing techniques and frameworks
 1. [Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
 2. Selenium
 3. Unit Testing (JUnit, NUnit etc.)
@@ -23,6 +23,19 @@
 13. Apache JMeter
 14. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
 15. SoapUI
+16. JMock
+17. Refactoring
+
+
+
+## Design Patterns
+1. [Strategy Pattern(Dependency Injection)](https://dzone.com/articles/java-the-strategy-pattern)
+2. [Observer Pattern(Event Listener)]()
+3. [Builder Pattern( While Writing Unit Tests )]()
+4. [Factory Pattern(Web framewroks)]()
+5. [Facade(REST)]()
+6. [Singleton]()
+x. [The Big Ball of Mud :)]()
 
 
 
