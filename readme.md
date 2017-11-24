@@ -27,7 +27,7 @@
 17. Refactoring
 18. Debugging
 19. [Regression testing(The idea is to make a change to your application as required for bug fixing or new functionality, and regression testing will hopefully catch any problems (or regressions) with your changes)](https://en.wikipedia.org/wiki/Regression_testing)
-20. Integration testing
+20. [Integration testing(Demonstrate that different pieces of the system work together. Integration tests cover whole applications)](https://en.wikipedia.org/wiki/Integration_testing)
 
 
 
