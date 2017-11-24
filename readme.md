@@ -8,8 +8,8 @@
 
 
 ## Software Quality & Testing techniques and frameworks
-1. [Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
-2. Selenium
+1. [Mutation testing(Tests your test suite rather than your application. Introducing small errors (called mutations) into your application (errors that are not supposed to fix bugs or provide new functionality) to see if your test suite picks them up)](https://en.wikipedia.org/wiki/Mutation_testing)
+2. Selenium(Selenium automates browsers) - Selenium IDE, Selenium WebDriver, Selenium client API, Selenium Grid, Selendroid, Appium 
 3. Unit Testing (JUnit, NUnit etc.)
 4. JRat
 5. Mockito
@@ -25,6 +25,9 @@
 15. SoapUI
 16. JMock
 17. Refactoring
+18. Debugging
+19. [Regression testing(The idea is to make a change to your application as required for bug fixing or new functionality, and regression testing will hopefully catch any problems (or regressions) with your changes)](https://en.wikipedia.org/wiki/Regression_testing)
+20. Integration testing
 
 
 
