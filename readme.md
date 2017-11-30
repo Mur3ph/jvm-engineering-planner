@@ -52,6 +52,7 @@ x. [The Big Ball of Mud :)](https://en.wikipedia.org/wiki/Big_ball_of_mud)
 1. Apache Ant 
 2. Apache Maven 
 3. Gradle
+4. Jenkins (Continues Integration & Continues Delivery)
 
 
 
