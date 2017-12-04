@@ -2,8 +2,18 @@
 
 ## Java resources
 1. [Java 7](https://docs.oracle.com/javase/7/docs/)
+  1. [Java 7: API](https://docs.oracle.com/javaee/7/api/)
+  2. [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
+  3. [Enhancements up to Java 7](https://docs.oracle.com/javase/7/docs/technotes/guides/language/enhancements.html)
+  4. [Java SE Tutorial](https://docs.oracle.com/javase/tutorial/)
 2. [Java 8](https://docs.oracle.com/javase/8/docs/)
 3. [Java 9](https://docs.oracle.com/javase/9/docs/)
+4. [Google News on Java](https://www.google.ie/search?q=java&safe=active&tbm=nws&cad=h)
+5. [Java Code Geeks](http://www.javacodegeeks.com/)
+6. [Java on Oracle Technology Network(OTN)](http://www.oracle.com/technetwork/java/index.html)
+7. [Java Magazine (New release every 2 months)](http://www.oracle.com/technetwork/java/javamagazine/index.html)
+8. [Java World](https://www.javaworld.com/)
+9. []()
 
 
 
