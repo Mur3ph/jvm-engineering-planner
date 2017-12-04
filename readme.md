@@ -1,4 +1,4 @@
-# JVM Resources & Cert.
+# Java Resources & Certificate 
 
 ## Java resources
 1. [Java 7](https://docs.oracle.com/javase/7/docs/)
