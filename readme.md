@@ -114,14 +114,11 @@
 ## Java developers
 1. [Eugen Paraschiv](http://www.baeldung.com/)
 2. [Nicolas Frankel](http://blog.frankel.ch)
-3. [Javin Paul]()
-4. [Thorben Janssen]()
-4. [Adam Bien]()
-4. [Arun Gupta]()
-4. [Mark Reinhold]()
-4. []()
-4. []()
-4. []()
+3. [Javin Paul](http://javarevisited.blogspot.ie/)
+4. [Thorben Janssen](https://www.thoughts-on-java.org/)
+5. [Adam Bien](http://adam-bien.com/roller/abien/)
+6. [Arun Gupta](http://blog.arungupta.me/)
+7. [Mark Reinhold](https://mreinhold.org/)
 
 
 
