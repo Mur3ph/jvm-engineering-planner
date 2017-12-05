@@ -13,29 +13,28 @@
 6. [Java on Oracle Technology Network(OTN)](http://www.oracle.com/technetwork/java/index.html)
 7. [Java Magazine (New release every 2 months)](http://www.oracle.com/technetwork/java/javamagazine/index.html)
 8. [Java World](https://www.javaworld.com/)
-9. []()
 
 
 
-## Software Quality & Testing techniques and frameworks
-1. [Mutation testing(Tests your test suite rather than your application. Introducing small errors (called mutations) into your application (errors that are not supposed to fix bugs or provide new functionality) to see if your test suite picks them up)](https://en.wikipedia.org/wiki/Mutation_testing)
-2. Selenium(Selenium automates browsers) - Selenium IDE, Selenium WebDriver, Selenium client API, Selenium Grid, Selendroid, Appium 
-3. Unit Testing (JUnit, NUnit etc.)
-4. JRat
-5. Mockito
-6. FindBugs
-7. SonarQube
-8. Browser debugging (Console, Firebug etc.)
-9. Web services - Postman, Fiddler
-10. Cucumber 
+## Software Quality & Testing techniques
+1. Selenium(Selenium automates browsers) - Selenium IDE, Selenium WebDriver, Selenium client API, Selenium Grid, Selendroid, Appium
+2. Unit Testing (JUnit, NUnit etc.)
+3. [Mutation testing(Tests your test suite rather than your application. Introducing small errors (called mutations) into your application (errors that are not supposed to fix bugs or provide new functionality) to see if your test suite picks them up)](https://en.wikipedia.org/wiki/Mutation_testing)
+4. Mockito
+5. SoapUI
+6. TestNG
+7. Browser debugging (Console, Firebug etc.)
+8. Web services - Postman, Fiddler
+9. Refactoring
+10. Debugging  
 11. Serenity
-12. TestNG
+12. FindBugs
 13. Apache JMeter
 14. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
-15. SoapUI
+15. JRat
 16. JMock
-17. Refactoring
-18. Debugging
+17. SonarQube
+18. Cucumber
 19. [Regression testing(The idea is to make a change to your application as required for bug fixing or new functionality, and regression testing will hopefully catch any problems (or regressions) with your changes)](https://en.wikipedia.org/wiki/Regression_testing)
 20. [Integration testing(Demonstrate that different pieces of the system work together. Integration tests cover whole applications)](https://en.wikipedia.org/wiki/Integration_testing)
 
@@ -55,6 +54,7 @@ x. [The Big Ball of Mud :)](https://en.wikipedia.org/wiki/Big_ball_of_mud)
 ### Monitoring tools
 1. JConsole (Packaged with JDK)
 2. Apache JMeter
+3. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
 
 
 
