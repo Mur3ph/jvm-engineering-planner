@@ -47,7 +47,7 @@
 4. [Factory Pattern(Web framewroks)](https://dzone.com/articles/java-the-factory-pattern)
 5. [Facade(REST)](https://dzone.com/articles/design-patterns-uncovered-1)
 6. [Singleton](https://stackoverflow.com/questions/70689/what-is-an-efficient-way-to-implement-a-singleton-pattern-in-java)
-x. [The Big Ball of Mud :)](https://en.wikipedia.org/wiki/Big_ball_of_mud)
+7. [The Big Ball of Mud :)](https://en.wikipedia.org/wiki/Big_ball_of_mud)
 
 
 
@@ -85,8 +85,8 @@ x. [The Big Ball of Mud :)](https://en.wikipedia.org/wiki/Big_ball_of_mud)
 
 
 ## Java websites
-1. Javaworld
-2. Java Code Geeks
+1. [Java World](https://www.javaworld.com/)
+2. [Java Code Geeks](http://www.javacodegeeks.com/)
 3. InfoQ | Java
 4. Javalobby
 5. The Server Side
