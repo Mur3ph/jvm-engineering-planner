@@ -124,8 +124,8 @@
 
 ## Books
 1. Clean Code
-2. Clean Architecture
-3. Essential Java
+2. Essential Java
+3. Clean Architecture
 
 
 
