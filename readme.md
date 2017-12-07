@@ -25,32 +25,34 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 ## Software Quality & Testing techniques
-1. [Selenium(Selenium automates browsers) - Selenium IDE, Selenium WebDriver, Selenium client API, Selenium Grid, Selendroid, Appium]()
-2. [Unit Testing (not really testing) - JUnit, NUnit etc.]()
+1. [Selenium(Selenium automates browsers) - Selenium IDE, Selenium WebDriver, Selenium client API, Selenium Grid, Selendroid, Appium](http://www.seleniumhq.org/)
+2. [Unit Testing (not really testing) - JUnit, NUnit etc.](https://en.wikipedia.org/wiki/Unit_testing)
 3. [Mutation testing(Tests your test suite rather than your application. Introducing small errors (called mutations) into your application (errors that are not supposed to fix bugs or provide new functionality) to see if your test suite picks them up)](https://en.wikipedia.org/wiki/Mutation_testing)
-4. [Mockito]()
-5. [SoapUI]()
-6. [TestNG]()
+4. [Mockito](http://site.mockito.org/)
+5. [SoapUI (REST & SOAP Testing Tool)](https://www.soapui.org/)
+6. [TestNG](http://testng.org/doc/)
 7. [Browser debugging (Console, Firebug etc.)]()
-8. [Web services - Postman, Fiddler]()
-9. [Refactoring]()
-10. [Debugging](https://simpleprogrammer.com/2011/06/17/the-debugger-mindset/)
-11. [Serenity]()
-12. [FindBugs]()
-13. [Apache JMeter]()
+8. [Postman](https://www.getpostman.com/)
+9. [Fiddler](https://www.telerik.com/fiddler)
+10. [Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
+11. [Debugging](https://simpleprogrammer.com/2011/06/17/the-debugger-mindset/)
+12. [Serenity (Automated Acceptance testing)](http://www.thucydides.info/#/)
+13. [FindBugs](http://findbugs.sourceforge.net/)
 14. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
-15. [JRat]()
-16. [JMock]()
-17. [SonarQube]()
-18. [Cucumber]()
-19. [Regression testing(The idea is to make a change to your application as required for bug fixing or new functionality, and regression testing will hopefully catch any problems (or regressions) with your changes)](https://en.wikipedia.org/wiki/Regression_testing)
-20. [Integration testing(Demonstrate that different pieces of the system work together. Integration tests cover whole applications)](https://en.wikipedia.org/wiki/Integration_testing)
-21. [Test Automation](https://simpleprogrammer.com/getting-up-to-bat-series/)
-22. [Whitebox testing]()
-23. [Blackbox testing]()
-24. [Boundary conditions]()
-25. [Acceptance testing]()
-
+15. [JRat](http://jrat.sourceforge.net/)
+16. [JMock](http://www.jmock.org/)
+17. [SonarQube (Code Quality)](https://www.sonarqube.org/)
+18. [Cucumber](https://cucumber.io/)
+19. [Test Automation](https://simpleprogrammer.com/getting-up-to-bat-series/)
+20. [Whitebox testing](https://en.wikipedia.org/wiki/White-box_testing)
+21. [Blackbox testing](https://en.wikipedia.org/wiki/Black-box_testing)
+22. [Boundary conditions](https://en.wikipedia.org/wiki/Boundary_testing)
+23. [Acceptance testing](http://softwaretestingfundamentals.com/acceptance-testing/)
+24. [System testing](http://softwaretestingfundamentals.com/system-testing/)
+25. [Integration testing(Demonstrate that different pieces of the system work together. Integration tests cover whole applications)](https://en.wikipedia.org/wiki/Integration_testing)
+26. [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
+27. [Regression testing(The idea is to make a change to your application as required for bug fixing or new functionality, and regression testing will hopefully catch any problems (or regressions) with your changes)](https://en.wikipedia.org/wiki/Regression_testing)
+28. [Apache JMeter](http://jmeter.apache.org/)
 
 
 
@@ -67,7 +69,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 ### Monitoring tools
 1. [JConsole (Packaged with JDK)]()
-2. [Apache JMeter]()
+2. [Apache JMeter](http://jmeter.apache.org/)
 3. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
 
 
@@ -111,6 +113,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 8. [ReactJS]()
 9. [JQuery]()
 10. [Bootstrap]()
+11. [D3.JS]()
 
 
 
@@ -133,20 +136,6 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
-## Java blogs
-1. [(10 Java Experts and Devs to Follow (November 2017)](https://dzone.com/articles/10-java-experts-and-developers-to-follow-on-social)
-2. [The Ultimate List of Software Developer Blogs (November 2017)](https://simpleprogrammer.com/2017/11/01/ultimate-list-software-developer-blogs#a8)
-3. [Top 10 Java Blogs for Programmers of All Levels (October 2017)](https://stackify.com/java-blogs-for-programmers-of-all-levels/)
-4. [Top 40 Java Blogs & Websites For Developers and Programming Geeks (October 2017)](https://blog.feedspot.com/java_blogs/)
-5. [40+ Resources to Help You Learn Java Online (September 2017)](https://www.simplilearn.com/resources-to-learn-java-programming-article)
-6. [Best Java Sites (July 2017)](http://www.baeldung.com/java-blogs)
-7. [10 Best Java Programming Blogs To Follow (May 2016)](http://codecondo.com/10-best-java-programming-blogs-to-follow/)
-8. [100 High-Quality Java Developers’ Blogs (November 2012)](https://www.programcreek.com/2012/11/top-100-java-developers-blogs/)
-9. [Top Java Blogs](https://www.topjavablogs.com/blogs)
-10. [40 Java experts you should follow on Twitter](https://techbeacon.com/java-leaders-you-should-follow-twitter)
-
-
-
 ## Java developers
 1. [Eugen Paraschiv](http://www.baeldung.com/)
 2. [Nicolas Frankel](http://blog.frankel.ch)
@@ -160,6 +149,12 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 ## Java tutorials
 1. [Mkyong](http://www.mkyong.com/)
+
+
+
+## Interesting Articles
+1. [The Technical Skills You Need to Have as a Software Developer](https://dzone.com/articles/the-technical-skills-you-need-to-have-as-a-softwar)
+
 
 
 ## Books
