@@ -21,6 +21,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 9. [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 10. [JVM and Java Language Specification, Oracle](https://docs.oracle.com/javase/specs/)
 11. [Java Group FAQ](https://github.com/Javagroup123/group/wiki/FAQ)
+12. [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html)
 
 
 
@@ -112,14 +113,23 @@ This is different for other technologies. It doesn't make much sense to learn HT
 7. [AngularJS]()
 8. [ReactJS]()
 9. [JQuery]()
-10. [Bootstrap]()
-11. [D3.JS]()
 
 
 
 ## Stacks (A stack is a set of technologies, usually including a framework, that are commonly used together to create a full application)
 1. [MEAN (MongoDB, Express.js, AngularJS, and Node.js)]()
 
+
+
+## Frontend UI
+1. [JavaFX](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html)
+2. [JSF](http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html)
+3. [ThymeLeaf](http://www.thymeleaf.org/)
+4. [HTML]()
+5. [CSS]()
+6. [JavaScript]()
+7. [Bootstrap]()
+8. [D3.JS]()
 
 
 
