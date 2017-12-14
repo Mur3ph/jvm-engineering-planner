@@ -22,6 +22,9 @@ This is different for other technologies. It doesn't make much sense to learn HT
 10. [JVM and Java Language Specification, Oracle](https://docs.oracle.com/javase/specs/)
 11. [Java Group FAQ](https://github.com/Javagroup123/group/wiki/FAQ)
 12. [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html)
+13. [Code for OpenJDK](http://hg.openjdk.java.net/)
+14.	[Code for OpenJDK: FileInputStream()](http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/0a5b87833562/src/share/native/java/io/FileInputStream.c)
+15. [GNU Classpath](http://www.gnu.org/software/classpath/)
 
 
 
@@ -54,6 +57,8 @@ This is different for other technologies. It doesn't make much sense to learn HT
 26. [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
 27. [Regression testing(The idea is to make a change to your application as required for bug fixing or new functionality, and regression testing will hopefully catch any problems (or regressions) with your changes)](https://en.wikipedia.org/wiki/Regression_testing)
 28. [Apache JMeter](http://jmeter.apache.org/)
+29. [GUI testing](https://www.qfs.de/en/qf-test/java-testing.html)
+30. [TestFX]()
 
 
 
