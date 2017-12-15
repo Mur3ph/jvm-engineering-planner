@@ -175,6 +175,15 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
+## Math
+1. [Linear Algebra]()
+2. [Calculus]()
+3. [Trig.]()
+4. [Geometry]()
+5. [Steven Strogatz]()
+
+
+
 ## Books
 1. [Effective Java 2nd Edition, Joshua Bloch]()
 2. [Clean Code, by Robert Cecil Martin]()
