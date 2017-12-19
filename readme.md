@@ -73,10 +73,11 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
-### Monitoring tools
+### Monitoring and Performance tools
 1. [JConsole (Packaged with JDK)]()
 2. [Apache JMeter](http://jmeter.apache.org/)
 3. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
+4. [Java Mission Control (JMC)](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html)
 
 
 
@@ -178,9 +179,10 @@ This is different for other technologies. It doesn't make much sense to learn HT
 ## Math
 1. [Linear Algebra]()
 2. [Calculus]()
-3. [Trig.]()
-4. [Geometry]()
-5. [Steven Strogatz]()
+3. [Geometry]()
+4. [Statistics]()
+5. [Probability]()
+6. [Steven Strogatz]()
 
 
 
