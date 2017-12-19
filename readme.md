@@ -60,6 +60,8 @@ This is different for other technologies. It doesn't make much sense to learn HT
 8. [Fuzzy Logic Systems](https://en.wikipedia.org/wiki/Fuzzy_system)
 9. [Statistical AI](https://en.wikipedia.org/wiki/Artificial_intelligence#Statistical)
 10. [Probabilistic methods](https://en.wikipedia.org/wiki/Probability)
+11. [7 algorithms and data structures every programmer should know about](http://blog.hackerearth.com/2015/05/top-7-algorithms-and-data-structures-every-programmer-should-know-about.html)
+
 
 
 
@@ -73,7 +75,6 @@ This is different for other technologies. It doesn't make much sense to learn HT
 7. [HMAC: (Keyed-hash message authentication)](https://en.wikipedia.org/wiki/Keyed-hash_message_authentication_code)
 8. [Tiger: TTH (Usually used in Tiger tree hashes)](https://en.wikipedia.org/wiki/Tiger_(hash))
 9. [List of Hash Functions](http://www.cse.yorku.ca/~oz/hash.html)
-10. [7 algorithms and data structures every programmer should know about](http://blog.hackerearth.com/2015/05/top-7-algorithms-and-data-structures-every-programmer-should-know-about.html)
 
 
 
