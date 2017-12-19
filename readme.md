@@ -78,6 +78,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 2. [Apache JMeter](http://jmeter.apache.org/)
 3. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
 4. [Java Mission Control (JMC)](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html)
+5. [VisualVM](http://visualvm.java.net/)
 
 
 
