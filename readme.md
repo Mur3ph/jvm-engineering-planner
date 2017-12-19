@@ -55,14 +55,25 @@ This is different for other technologies. It doesn't make much sense to learn HT
 3. [List of Artificial Intelligence Algorithms](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_projects)
 4. [Evolutionary computation: Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
 5. [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
-6. [Hash Function](https://en.wikipedia.org/wiki/Hash_Function)
-7. [Database: Join Algorithm](https://en.wikipedia.org/wiki/Join_(SQL))
-8. [Database: Hash Join](https://en.wikipedia.org/wiki/Hash_join)
-9. [Cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
-10. [Swarm Intelligence: Ant Colony Optimization](https://en.wikipedia.org/wiki/Ant_colony_optimization)
-11. [Fuzzy Logic Systems](https://en.wikipedia.org/wiki/Fuzzy_system)
-12. [Statistical AI](https://en.wikipedia.org/wiki/Artificial_intelligence#Statistical)
-13. [Probabilistic methods](https://en.wikipedia.org/wiki/Probability)
+6. [Database: Join Algorithm](https://en.wikipedia.org/wiki/Join_(SQL))
+7. [Swarm Intelligence: Ant Colony Optimization](https://en.wikipedia.org/wiki/Ant_colony_optimization)
+8. [Fuzzy Logic Systems](https://en.wikipedia.org/wiki/Fuzzy_system)
+9. [Statistical AI](https://en.wikipedia.org/wiki/Artificial_intelligence#Statistical)
+10. [Probabilistic methods](https://en.wikipedia.org/wiki/Probability)
+
+
+
+## Hash Algorithms
+1. [Hash Function](https://en.wikipedia.org/wiki/Hash_Function)
+2. [Database: Hash Join](https://en.wikipedia.org/wiki/Hash_join)
+3. [Cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+4. [Geometric hashing](https://en.wikipedia.org/wiki/Geometric_hashing)
+5. [SHA-3](https://en.wikipedia.org/wiki/SHA-3)
+6. [MD5 (NB: There is now a method of generating collisions for MD5)](https://en.wikipedia.org/wiki/MD5)
+7. [HMAC: (Keyed-hash message authentication)](https://en.wikipedia.org/wiki/Keyed-hash_message_authentication_code)
+8. [Tiger: TTH (Usually used in Tiger tree hashes)](https://en.wikipedia.org/wiki/Tiger_(hash))
+9. [List of Hash Functions](http://www.cse.yorku.ca/~oz/hash.html)
+10. [7 algorithms and data structures every programmer should know about](http://blog.hackerearth.com/2015/05/top-7-algorithms-and-data-structures-every-programmer-should-know-about.html)
 
 
 
