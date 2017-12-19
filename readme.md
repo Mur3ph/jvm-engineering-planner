@@ -28,6 +28,30 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
+## Core Java Classes
+1. [Scanner](http://waltermilner.com/scanner.pdf)
+2. [Java Collections Framework](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
+3. [Java Collections Images](https://www.google.ie/search?client=firefox-b&dcr=0&biw=1394&bih=788&tbm=isch&sa=1&ei=TvI4WpawLaWFgAb04rR4&q=collections+java+8&oq=Collections+java+&gs_l=psy-ab.1.0.0l3j0i30k1j0i8i30k1l6.22948.22948.0.24973.1.1.0.0.0.0.135.135.0j1.1.0....0...1c..64.psy-ab..0.1.134....0.aZmvza-Fosk#imgrc=_)
+4. [Collection Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/collection.html)
+5. [Set Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/set.html)
+6. [List Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)
+7. [Map Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/map.html)
+8. [Queue Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/queue.html)
+9. [Deque Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/deque.html)
+10. [SortedSet Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/sorted-set.html)
+11. [SortedMap Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/sorted-map.html)
+12. [Object Ordering](https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html)
+
+
+
+## Data Structures
+
+
+
+## Algorithms
+
+
+
 ## Software Quality & Testing techniques
 1. [Selenium(Selenium automates browsers) - Selenium IDE, Selenium WebDriver, Selenium client API, Selenium Grid, Selendroid, Appium](http://www.seleniumhq.org/)
 2. [Unit Testing (not really testing) - JUnit, NUnit etc.](https://en.wikipedia.org/wiki/Unit_testing)
