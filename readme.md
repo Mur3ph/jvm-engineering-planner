@@ -30,6 +30,12 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 ## Core Java Classes
 1. [Scanner](http://waltermilner.com/scanner.pdf)
+2. [Object Ordering](https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html)
+
+
+
+## Data Structures
+1. [List of Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures)
 2. [Java Collections Framework](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
 3. [Java Collections Images](https://www.google.ie/search?client=firefox-b&dcr=0&biw=1394&bih=788&tbm=isch&sa=1&ei=TvI4WpawLaWFgAb04rR4&q=collections+java+8&oq=Collections+java+&gs_l=psy-ab.1.0.0l3j0i30k1j0i8i30k1l6.22948.22948.0.24973.1.1.0.0.0.0.135.135.0j1.1.0....0...1c..64.psy-ab..0.1.134....0.aZmvza-Fosk#imgrc=_)
 4. [Collection Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/collection.html)
@@ -40,15 +46,23 @@ This is different for other technologies. It doesn't make much sense to learn HT
 9. [Deque Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/deque.html)
 10. [SortedSet Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/sorted-set.html)
 11. [SortedMap Interface](https://docs.oracle.com/javase/tutorial/collections/interfaces/sorted-map.html)
-12. [Object Ordering](https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html)
-
-
-
-## Data Structures
 
 
 
 ## Algorithms
+1. [Java Algorithm Tasks/Tests](http://www.java2novice.com/java-interview-programs/)
+2. [List of Software Engineering Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering)
+3. [List of Artificial Intelligence Algorithms](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_projects)
+4. [Evolutionary computation: Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+5. [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+6. [Hash Function](https://en.wikipedia.org/wiki/Hash_Function)
+7. [Database: Join Algorithm](https://en.wikipedia.org/wiki/Join_(SQL))
+8. [Database: Hash Join](https://en.wikipedia.org/wiki/Hash_join)
+9. [Cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+10. [Swarm Intelligence: Ant Colony Optimization](https://en.wikipedia.org/wiki/Ant_colony_optimization)
+11. [Fuzzy Logic Systems](https://en.wikipedia.org/wiki/Fuzzy_system)
+12. [Statistical AI](https://en.wikipedia.org/wiki/Artificial_intelligence#Statistical)
+13. [Probabilistic methods](https://en.wikipedia.org/wiki/Probability)
 
 
 
