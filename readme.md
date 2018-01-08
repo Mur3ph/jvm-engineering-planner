@@ -183,6 +183,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 ## Frontend UI
 1. [JavaFX](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html)
+2. [Getting started with JavaFX](https://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm)
 2. [JSF](http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html)
 3. [ThymeLeaf](http://www.thymeleaf.org/)
 4. [HTML]()
