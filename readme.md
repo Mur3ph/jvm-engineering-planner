@@ -194,6 +194,28 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
+## Java tutorials
+1. [Mkyong](http://www.mkyong.com/)
+
+
+
+## Math
+1. [Linear Algebra]()
+2. [Calculus]()
+3. [Geometry]()
+4. [Statistics]()
+5. [Probability]()
+6. [Steven Strogatz]()
+
+
+
+## 3D / 2D Graphics
+1. [Unity]()
+2. [OpenGL]()
+3. [WebGL]()
+
+
+
 ## Java websites
 1. [Java World](https://www.javaworld.com/)
 2. [Java Code Geeks](http://www.javacodegeeks.com/)
@@ -218,23 +240,8 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
-## Java tutorials
-1. [Mkyong](http://www.mkyong.com/)
-
-
-
 ## Interesting Articles
 1. [The Technical Skills You Need to Have as a Software Developer](https://dzone.com/articles/the-technical-skills-you-need-to-have-as-a-softwar)
-
-
-
-## Math
-1. [Linear Algebra]()
-2. [Calculus]()
-3. [Geometry]()
-4. [Statistics]()
-5. [Probability]()
-6. [Steven Strogatz]()
 
 
 
