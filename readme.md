@@ -65,7 +65,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
-## Hash Algorithms
+## Hash Algorithms and Other Algorithm tasks
 1. [Hash Function](https://en.wikipedia.org/wiki/Hash_Function)
 2. [Database: Hash Join](https://en.wikipedia.org/wiki/Hash_join)
 3. [Cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
@@ -75,6 +75,8 @@ This is different for other technologies. It doesn't make much sense to learn HT
 7. [HMAC: (Keyed-hash message authentication)](https://en.wikipedia.org/wiki/Keyed-hash_message_authentication_code)
 8. [Tiger: TTH (Usually used in Tiger tree hashes)](https://en.wikipedia.org/wiki/Tiger_(hash))
 9. [List of Hash Functions](http://www.cse.yorku.ca/~oz/hash.html)
+10. [Geeks-for-Geeks Top Ten Algorithms](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+11. [Rosetta Code: Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)
 
 
 
@@ -109,6 +111,15 @@ This is different for other technologies. It doesn't make much sense to learn HT
 28. [Apache JMeter](http://jmeter.apache.org/)
 29. [GUI testing](https://www.qfs.de/en/qf-test/java-testing.html)
 30. [TestFX](https://github.com/TestFX/TestFX/wiki)
+31. [MSTest, JBehave, Karma, cURL, Protractor and Microsoft UI Automation]()
+
+
+
+## Data Formats
+1. [JSON]()
+2. [XML]()
+3. [SQL]()
+4. [NoSQL]()
 
 
 
@@ -206,8 +217,6 @@ This is different for other technologies. It doesn't make much sense to learn HT
 4. [Statistics]()
 5. [Probability]()
 6. [Steven Strogatz]()
-7. [Geeks-for-Geeks Top Ten Algorithms](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
-8. [Rosetta Code: Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)
 
 
 
