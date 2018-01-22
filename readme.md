@@ -199,13 +199,15 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
-## Math
+## Math & Algorithms
 1. [Linear Algebra]()
 2. [Calculus]()
 3. [Geometry]()
 4. [Statistics]()
 5. [Probability]()
 6. [Steven Strogatz]()
+7. [Geeks-for-Geeks Top Ten Algorithms](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+8. [Rosetta Code: Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)
 
 
 
