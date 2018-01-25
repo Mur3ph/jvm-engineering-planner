@@ -187,6 +187,24 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
+### Spring
+1. []()
+2. []()
+
+
+
+### Android
+1. []()
+2. []()
+
+
+
+### AngularJS
+1. []()
+2. []()
+
+
+
 ## Stacks (A stack is a set of technologies, usually including a framework, that are commonly used together to create a full application)
 1. [MEAN (MongoDB, Express.js, AngularJS, and Node.js)]()
 
@@ -253,6 +271,9 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 ## Interesting Articles
 1. [The Technical Skills You Need to Have as a Software Developer](https://dzone.com/articles/the-technical-skills-you-need-to-have-as-a-softwar)
+2. [7 Things to Know Getting Started With Spring Boot](https://dzone.com/articles/7-things-to-know-getting-started-with-spring-boot)
+3. [Spring Boot as a Windows Service in 5 Minutes](https://dzone.com/articles/spring-boot-as-a-windows-service-in-5-minutes)
+4. [Build a Basic CRUD App With Angular 5.0 and Spring Boot 2.0](https://dzone.com/articles/build-a-basic-crud-app-with-angular-50-and-spring)
 
 
 
