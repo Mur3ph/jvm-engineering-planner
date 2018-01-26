@@ -242,6 +242,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 1. [Unity]()
 2. [OpenGL]()
 3. [WebGL]()
+4. [Jmol: An open-source Java viewer for chemical structures in 3D](http://jmol.sourceforge.net/)
 
 
 
@@ -296,6 +297,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 3. [SCJD Exam with J2SE ,--Andrew Monkhouse, Terry Camerlengo]()
 4. [SCJP Sun Certified Programmer for Java 6 - Sierra & Bates]()
 5. [OCA/OCP Java SE 7 Programmer - Sierra & Bates]()
+6. [Oracle Certification Program](https://en.wikipedia.org/wiki/Oracle_Certification_Program)
 
 
 
