@@ -116,10 +116,10 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 ## Data Formats
-1. [JSON]()
-2. [XML]()
-3. [SQL]()
-4. [NoSQL]()
+1. [JSON](https://www.json.org/)
+2. [XML](https://www.w3.org/XML/)
+3. [SQL](https://en.wikipedia.org/wiki/SQL)
+4. [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
 
 
 
@@ -135,7 +135,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 ### Monitoring and Performance tools
-1. [JConsole (Packaged with JDK)]()
+1. [JConsole (Packaged with JDK)](https://docs.oracle.com/javase/7/docs/technotes/guides/management/jconsole.html)
 2. [Apache JMeter](http://jmeter.apache.org/)
 3. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
 4. [Java Mission Control (JMC)](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html)
@@ -144,46 +144,46 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 ## Integration 
-1. [Apache Ant]() 
-2. [Apache Maven]() 
-3. [Gradle]()
-4. [Jenkins (Continues Integration & Continues Delivery)]()
+1. [Apache Ant](http://ant.apache.org/) 
+2. [Apache Maven](https://maven.apache.org/) 
+3. [Gradle](https://gradle.org/)
+4. [Jenkins (Continues Integration & Continues Delivery)](https://jenkins.io/)
 5. [Jar-to-Exe](https://github.com/Javagroup123/group/wiki/Jar-to-Exe)
 6. [Deployment](https://docs.oracle.com/javase/tutorial/deployment/)
 
 
 
 ## Servers
-1. [Tomcat]()
-2. [Wildfly]()
-3. [NGINX]()
-4. [Windows IIS]()
-5. [Linux]()
-6. [UNIX]()
+1. [Apache Tomcat](http://tomcat.apache.org/)
+2. [Wildfly](http://wildfly.org/)
+3. [NGINX](https://www.nginx.com/resources/wiki/)
+4. [Windows IIS](https://en.wikipedia.org/wiki/Internet_Information_Services)
+5. [Linux](https://www.linux.org/)
+6. [UNIX](https://en.wikipedia.org/wiki/Unix)
 
 
 
 ## Object Relational Mapping tools (ORM)
-1. [Hibernate]()
-2. [JOOQ]()
-3. [JPA]()
-4. [JDBC]()
+1. [Hibernate](http://hibernate.org/)
+2. [JOOQ](https://www.jooq.org/)
+3. [JPA](http://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html)
+4. [JDBC](https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html)
 5. [SimpleORM]()
-6. [Eclipse Link]()
+6. [Eclipse Link](http://www.eclipse.org/eclipselink/)
 7. [Java Group database soucrces](https://github.com/Javagroup123/group/wiki/Databases)
 
 
 
 ## Frameworks (A framework is simply a set of libraries that are used to develop code on a particular platform or on multiple platforms)
-1. [Spring (Boot, MVC, Security, Data etc.)]()
-2. [Android]()
-3. [Netty (Non-blocking I/O (NIO) client-server framework)]()
+1. [Spring (Boot, MVC, Security, Data etc.)](https://docs.spring.io/spring-framework/docs/current/javadoc-api/)
+2. [Android](https://developer.android.com/index.html)
+3. [Netty (Non-blocking I/O (NIO) client-server framework)](https://netty.io/)
 4. [Neuroph (Java Neural Network framework)](http://neuroph.sourceforge.net/)
-5. [Play]()
-6. [Vaadin]()
-7. [AngularJS]()
-8. [ReactJS]()
-9. [JQuery]()
+5. [Play](https://www.playframework.com/)
+6. [Vaadin](https://vaadin.com/)
+7. [AngularJS](https://angularjs.org/)
+8. [ReactJS](https://reactjs.org/)
+9. [JQuery](https://jquery.com/)
 
 
 
@@ -206,7 +206,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 ## Stacks (A stack is a set of technologies, usually including a framework, that are commonly used together to create a full application)
-1. [MEAN (MongoDB, Express.js, AngularJS, and Node.js)]()
+1. [MEAN (MongoDB, Express.js, AngularJS, and Node.js)](http://mean.io/)
 
 
 
@@ -215,11 +215,11 @@ This is different for other technologies. It doesn't make much sense to learn HT
 2. [Getting started with JavaFX](https://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm)
 2. [JSF](http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html)
 3. [ThymeLeaf](http://www.thymeleaf.org/)
-4. [HTML]()
-5. [CSS]()
+4. [HTML](https://www.w3schools.com/html/)
+5. [CSS](https://www.w3schools.com/css/)
 6. [JavaScript]()
-7. [Bootstrap]()
-8. [D3.JS]()
+7. [Bootstrap](https://getbootstrap.com/)
+8. [D3.JS](https://d3js.org/)
 
 
 
@@ -239,9 +239,9 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 ## 3D / 2D Graphics
-1. [Unity]()
-2. [OpenGL]()
-3. [WebGL]()
+1. [Unity](https://unity3d.com/)
+2. [OpenGL](https://www.opengl.org/)
+3. [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 4. [Jmol: An open-source Java viewer for chemical structures in 3D](http://jmol.sourceforge.net/)
 
 
