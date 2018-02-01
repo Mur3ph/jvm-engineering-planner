@@ -65,7 +65,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
-## Hash Algorithms and Other Algorithm tasks
+## Hash Algorithms and Algorithm tasks
 1. [Hash Function](https://en.wikipedia.org/wiki/Hash_Function)
 2. [Database: Hash Join](https://en.wikipedia.org/wiki/Hash_join)
 3. [Cryptographic hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
