@@ -246,6 +246,15 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
+## Face and Finger Recognition
+1. [OpenCV implementation of Face Recognition](https://etienne.membrives.fr/pebibyte/articles/simple-face-recognition-using-opencv/)
+2. [JavaFaces: A Java Implementation of Face Recognition with Eigenfaces](http://code.google.com/p/javafaces/)
+3. [Explanation and Refactoring of the above library](http://fivedots.coe.psu.ac.th/~ad/jg/nui08/index.html)
+4. [Article Face Recognition using Eigenfaces](http://onionesquereality.wordpress.com/2009/02/11/face-recognition-using-eigenfaces-and-distance-classifiers-a-tutorial/)
+5. [Python: FourEyes Application](https://github.com/carolinehermans/15112-foureyes)
+
+
+
 ## Java websites
 1. [Java World](https://www.javaworld.com/)
 2. [Java Code Geeks](http://www.javacodegeeks.com/)
@@ -279,7 +288,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 ## Books
-1. [Effective Java 2nd Edition, Joshua Bloch]()
+1. [Effective Java 2nd & 3rd Edition, Joshua Bloch]()
 2. [Clean Code, by Robert Cecil Martin]()
 3. [Clean Architecture, by Robert Cecil Martin]()
 4. [Refactoring, by Martin Fowler](https://martinfowler.com/books/refactoring.html)
