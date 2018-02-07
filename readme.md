@@ -234,7 +234,10 @@ This is different for other technologies. It doesn't make much sense to learn HT
 3. [Geometry]()
 4. [Statistics]()
 5. [Probability]()
-6. [Steven Strogatz]()
+6. [Physic]()
+7. [Logic]()
+8. [Binary]()
+9. [Steven Strogatz]()
 
 
 
