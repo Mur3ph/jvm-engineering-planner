@@ -2,7 +2,7 @@
 
 ## Keeping up-to-date
 
-Each Java version has new features. You should have a book that at least covers "Java 5" (JRE 1.5). Then you can learn the new features of Java 6, 7, 8, and so on. You don't need to learn lambdas right form the beginning, so this should work just fine. Books released before September 2004 are probably too old to learn modern Java. They do not cover enums, varargs, generics, and annotations.
+Each Java/Java EE version has new features. You should have a book that at least covers "Java 5" (JRE 1.5). Then you can learn the new features of Java 6, 7, 8, and so on. You don't need to learn lambdas right form the beginning, so this should work just fine. Books released before September 2004 are probably too old to learn modern Java. They do not cover enums, varargs, generics, and annotations.
 
 This is different for other technologies. It doesn't make much sense to learn HTML4 and CSS2 now. With MDN, Jenkov, vogella and w3schools you can just learn HTML5 and CSS3. Instead of learning JavaScript you can learn TypeScript, which is already where ECMASCript 6 is heading, with class based OOP, arrow functions, constants, and block scoped variables.
 
