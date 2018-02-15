@@ -188,20 +188,20 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 ### Spring
-1. []()
+1. [Spring Framework](https://spring.io/)
 2. []()
 
 
 
 ### Android
-1. []()
-2. []()
+1. [Android Developers](https://developer.android.com/index.html)
+2. [Platform Architecture](https://developer.android.com/guide/platform/index.html)
 
 
 
 ### AngularJS
-1. []()
-2. []()
+1. [Angular](https://angular.io/)
+2. [AngularJS](https://angularjs.org/)
 
 
 
