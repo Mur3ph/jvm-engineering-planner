@@ -304,6 +304,17 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
+## Video
+1. [Derek Banas: Playlists](https://www.youtube.com/user/derekbanas/playlists)
+2. [Derek Banas: Java Video Tutorial](https://www.youtube.com/watch?v=TBWX97e1E9g&list=PLE7E8B7F4856C9B19)
+3. [Derek Banas: Design Patterns](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07)
+4. [Derek Banas: UML](https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc)
+5. [Derek Banas: Code Refactoring](https://www.youtube.com/watch?v=vhYK3pDUijk&list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV)
+6. [Derek Banas: OO Design](https://www.youtube.com/watch?v=fJW65Wo7IHI&list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
+7. [Derek Banas: How to Make Video Games](https://www.youtube.com/watch?v=Yk-S8GKNKxM&list=PLGLfVvz_LVvSYnwKyw9xP5tEn7GSUWwZJ)
+
+
+
 ## Certification Books:
 1. [A Programmer's Guide To Java Certification, Mughal/Rasmussen]()
 2. [SCJP Sun Certified Programmer for Java 5 Study Guide, Sierra]()
