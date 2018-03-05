@@ -288,6 +288,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 3. [Spring Boot as a Windows Service in 5 Minutes](https://dzone.com/articles/spring-boot-as-a-windows-service-in-5-minutes)
 4. [Build a Basic CRUD App With Angular 5.0 and Spring Boot 2.0](https://dzone.com/articles/build-a-basic-crud-app-with-angular-50-and-spring)
 5. [The Top Software Testing Tools: The Ultimate List of Lists](https://dzone.com/articles/the-top-software-testing-tools-the-ultimate-list-o-1)
+6. [How Java 10 will CHANGE the Way You Code ](https://t.co/bMudD16KvQ)
 
 
 
