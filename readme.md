@@ -223,8 +223,9 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
-## Java tutorials
+## Java tutorials & Coding Projects/ Ideas
 1. [Mkyong](http://www.mkyong.com/)
+2. [Coding Dojo](http://codingdojo.org/kata/)
 
 
 
@@ -300,6 +301,8 @@ This is different for other technologies. It doesn't make much sense to learn HT
 7. [Apress Spring Persistence with Hibernate, Manning]()
 8. [Security Engineering, Ross Anderson](https://www.cl.cam.ac.uk/%7Erja14/book.html)
 9. [Database Systems](http://infolab.stanford.edu/%7Eullman/dscb.html)
+10. [Growing Object-Oriented Software, Guided by Tests (Beck Signature)](https://www.amazon.co.uk/dp/0321503627/ref=as_li_qf_asin_il_tl?slotNum=3&ie=UTF8&linkCode=g12&linkId=58eb6083d58d6083419861c746c38e5c&imprToken=mOhjztiRSLnz68HXLBjBVA&creativeASIN=0321503627&tag=sandordargo-21&creative=9325)
+11. []()
 
 
 
