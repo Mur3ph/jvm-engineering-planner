@@ -25,12 +25,8 @@ This is different for other technologies. It doesn't make much sense to learn HT
 13. [Code for OpenJDK](http://hg.openjdk.java.net/)
 14.	[Code for OpenJDK: FileInputStream()](http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/0a5b87833562/src/share/native/java/io/FileInputStream.c)
 15. [GNU Classpath](http://www.gnu.org/software/classpath/)
-
-
-
-## Core Java Classes
-1. [Scanner](http://waltermilner.com/scanner.pdf)
-2. [Object Ordering](https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html)
+16. [Scanner](http://waltermilner.com/scanner.pdf)
+17. [Object Ordering](https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html)
 
 
 
@@ -295,14 +291,18 @@ This is different for other technologies. It doesn't make much sense to learn HT
 1. [Effective Java 2nd & 3rd Edition, Joshua Bloch]()
 2. [Clean Code, by Robert Cecil Martin]()
 3. [Clean Architecture, by Robert Cecil Martin]()
-4. [Refactoring, by Martin Fowler](https://martinfowler.com/books/refactoring.html)
+4. [Refactoring - Improving the Design of Existing Code by Martin Fowler](https://martinfowler.com/books/refactoring.html)
 5. [Compilers: Principles, Techniques, and Tools ("Dragon Book"), Alfred Aho et al]()
 6. [The Java Programming Language, Gosling, Arnold, Holmes]()
 7. [Apress Spring Persistence with Hibernate, Manning]()
 8. [Security Engineering, Ross Anderson](https://www.cl.cam.ac.uk/%7Erja14/book.html)
 9. [Database Systems](http://infolab.stanford.edu/%7Eullman/dscb.html)
 10. [Growing Object-Oriented Software, Guided by Tests (Beck Signature)](https://www.amazon.co.uk/dp/0321503627/ref=as_li_qf_asin_il_tl?slotNum=3&ie=UTF8&linkCode=g12&linkId=58eb6083d58d6083419861c746c38e5c&imprToken=mOhjztiRSLnz68HXLBjBVA&creativeASIN=0321503627&tag=sandordargo-21&creative=9325)
-11. []()
+11. [Code Complete by Steve McConnell](http://amzn.to/2FhxGGU)
+12. [The Software Craftsman: Professionalism, Pragmatism, Pride by Sandro Mancuso](http://amzn.to/2Flt1nq)
+13. [The Clean Coder by Uncle Bob Martin](http://amzn.to/2tlRjb8)
+14. [Working Effectively with Legacy Code by Michael Feathers](http://amzn.to/2oZposq)
+15. [The Complete Software Developer's Career Guide by John Sonmez](http://amzn.to/2oNRM1g)
 
 
 
