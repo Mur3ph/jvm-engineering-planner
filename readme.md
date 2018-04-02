@@ -284,6 +284,8 @@ This is different for other technologies. It doesn't make much sense to learn HT
 2. [7 Things to Know Getting Started With Spring Boot](https://dzone.com/articles/7-things-to-know-getting-started-with-spring-boot)
 3. [Spring Boot as a Windows Service in 5 Minutes](https://dzone.com/articles/spring-boot-as-a-windows-service-in-5-minutes)
 4. [Build a Basic CRUD App With Angular 5.0 and Spring Boot 2.0](https://dzone.com/articles/build-a-basic-crud-app-with-angular-50-and-spring)
+5. [The Top Software Testing Tools: The Ultimate List of Lists](https://dzone.com/articles/the-top-software-testing-tools-the-ultimate-list-o-1)
+6. [How Java 10 will CHANGE the Way You Code ](https://t.co/bMudD16KvQ)
 
 
 
@@ -303,6 +305,17 @@ This is different for other technologies. It doesn't make much sense to learn HT
 13. [The Clean Coder by Uncle Bob Martin](http://amzn.to/2tlRjb8)
 14. [Working Effectively with Legacy Code by Michael Feathers](http://amzn.to/2oZposq)
 15. [The Complete Software Developer's Career Guide by John Sonmez](http://amzn.to/2oNRM1g)
+
+
+
+## Video
+1. [Derek Banas: Playlists](https://www.youtube.com/user/derekbanas/playlists)
+2. [Derek Banas: Java Video Tutorial](https://www.youtube.com/watch?v=TBWX97e1E9g&list=PLE7E8B7F4856C9B19)
+3. [Derek Banas: Design Patterns](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07)
+4. [Derek Banas: UML](https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc)
+5. [Derek Banas: Code Refactoring](https://www.youtube.com/watch?v=vhYK3pDUijk&list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV)
+6. [Derek Banas: OO Design](https://www.youtube.com/watch?v=fJW65Wo7IHI&list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
+7. [Derek Banas: How to Make Video Games](https://www.youtube.com/watch?v=Yk-S8GKNKxM&list=PLGLfVvz_LVvSYnwKyw9xP5tEn7GSUWwZJ)
 
 
 
