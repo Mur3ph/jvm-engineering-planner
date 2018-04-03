@@ -76,41 +76,6 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
-## Software Quality & Testing techniques
-1. [Selenium(Selenium automates browsers) - Selenium IDE, Selenium WebDriver, Selenium client API, Selenium Grid, Selendroid, Appium](http://www.seleniumhq.org/)
-2. [Unit Testing (not really testing) - JUnit, NUnit etc.](https://en.wikipedia.org/wiki/Unit_testing)
-3. [Mutation testing(Tests your test suite rather than your application. Introducing small errors (called mutations) into your application (errors that are not supposed to fix bugs or provide new functionality) to see if your test suite picks them up)](https://en.wikipedia.org/wiki/Mutation_testing)
-4. [Mockito](http://site.mockito.org/)
-5. [SoapUI (REST & SOAP Testing Tool)](https://www.soapui.org/)
-6. [TestNG](http://testng.org/doc/)
-7. [Browser debugging (Console, Firebug etc.)]()
-8. [Postman](https://www.getpostman.com/)
-9. [Fiddler](https://www.telerik.com/fiddler)
-10. [Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
-11. [Debugging](https://simpleprogrammer.com/2011/06/17/the-debugger-mindset/)
-12. [Serenity (Automated Acceptance testing)](http://www.thucydides.info/#/)
-13. [FindBugs](http://findbugs.sourceforge.net/)
-14. [Java Performance Optimization](https://dzone.com/refcardz/java-performance-optimization)
-15. [JRat](http://jrat.sourceforge.net/)
-16. [JMock](http://www.jmock.org/)
-17. [SonarQube (Code Quality)](https://www.sonarqube.org/)
-18. [Cucumber](https://cucumber.io/)
-19. [Test Automation](https://simpleprogrammer.com/getting-up-to-bat-series/)
-20. [Whitebox testing (Test source code flow)](https://en.wikipedia.org/wiki/White-box_testing)
-21. [Blackbox testing (Test UI functionality of application)](https://en.wikipedia.org/wiki/Black-box_testing)
-22. [Boundary conditions](https://en.wikipedia.org/wiki/Boundary_testing)
-23. [Acceptance testing](http://softwaretestingfundamentals.com/acceptance-testing/)
-24. [System testing](http://softwaretestingfundamentals.com/system-testing/)
-25. [Integration testing(Demonstrate that different pieces of the system work together. Integration tests cover whole applications)](https://en.wikipedia.org/wiki/Integration_testing)
-26. [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
-27. [Regression testing(The idea is to make a change to your application as required for bug fixing or new functionality, and regression testing will hopefully catch any problems (or regressions) with your changes)](https://en.wikipedia.org/wiki/Regression_testing)
-28. [Apache JMeter](http://jmeter.apache.org/)
-29. [GUI testing](https://www.qfs.de/en/qf-test/java-testing.html)
-30. [TestFX](https://github.com/TestFX/TestFX/wiki)
-31. [MSTest, JBehave, Karma, cURL, Protractor and Microsoft UI Automation]()
-
-
-
 ## Data Formats
 1. [JSON](https://www.json.org/)
 2. [XML](https://www.w3.org/XML/)
