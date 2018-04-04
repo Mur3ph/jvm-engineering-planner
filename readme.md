@@ -227,6 +227,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 5. [Derek Banas: Code Refactoring](https://www.youtube.com/watch?v=vhYK3pDUijk&list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV)
 6. [Derek Banas: OO Design](https://www.youtube.com/watch?v=fJW65Wo7IHI&list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
 7. [Derek Banas: How to Make Video Games](https://www.youtube.com/watch?v=Yk-S8GKNKxM&list=PLGLfVvz_LVvSYnwKyw9xP5tEn7GSUWwZJ)
+8. [12 Java YouTube Channels You Should Follow In 2018](https://www.thoughts-on-java.org/java-youtube-2018/)
 
 
 
