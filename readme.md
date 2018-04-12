@@ -97,6 +97,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 4. [Windows IIS](https://en.wikipedia.org/wiki/Internet_Information_Services)
 5. [Linux](https://www.linux.org/)
 6. [UNIX](https://en.wikipedia.org/wiki/Unix)
+7. [Some Basic Linux Commands I Have Used During My Linux Journey – Part 1](https://www.unixmen.com/basic-linux-commands-used-linux-journey/)
 
 
 
@@ -216,6 +217,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 13. [The Clean Coder by Uncle Bob Martin](http://amzn.to/2tlRjb8)
 14. [Working Effectively with Legacy Code by Michael Feathers](http://amzn.to/2oZposq)
 15. [The Complete Software Developer's Career Guide by John Sonmez](http://amzn.to/2oNRM1g)
+16. [CODE: The Hidden Language of Computer Hardware and Software](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)
 
 
 
