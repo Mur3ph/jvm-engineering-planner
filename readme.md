@@ -197,6 +197,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 4. [Build a Basic CRUD App With Angular 5.0 and Spring Boot 2.0](https://dzone.com/articles/build-a-basic-crud-app-with-angular-50-and-spring)
 5. [The Top Software Testing Tools: The Ultimate List of Lists](https://dzone.com/articles/the-top-software-testing-tools-the-ultimate-list-o-1)
 6. [How Java 10 will CHANGE the Way You Code ](https://t.co/bMudD16KvQ)
+7. [Which programming language is most useful for finding a job?](https://www.quora.com/Which-programming-language-is-most-useful-for-finding-a-job/answer/Simon-Huggins)
 
 
 
