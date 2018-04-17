@@ -7,7 +7,9 @@
 
 
 <p align="center">
+<img alt="Java9ModulesCheatSheet" src="https://raw.githubusercontent.com/Mur3ph/jvm-programming-resources/tree/master/images/Java-9-modules-cheat-sheet.png">
+</p>
 
-	<img alt="Java-9-modules-cheat-sheet" src="https://raw.githubusercontent.com/Mur3ph/jvm-programming-resources/tree/master/images/Java-9-modules-cheat-sheet.png">
-
+<p align="center">
+<img alt="FromJavaToKotlin" src="https://raw.githubusercontent.com/MindorksOpenSource/from-java-to-kotlin/master/assets/from_java_to_kotlin.png">
 </p>
