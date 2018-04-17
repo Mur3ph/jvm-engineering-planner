@@ -4,8 +4,10 @@
 
 ## Java Platform Module Cheat Sheet
 
+
+
 <p align="center">
 
-![Java-9-modules-cheat-sheet](https://github.com/Mur3ph/jvm-programming-resources/tree/master/images/Java-9-modules-cheat-sheet.png)
+	<img alt="Java-9-modules-cheat-sheet" src="https://raw.githubusercontent.com/Mur3ph/jvm-programming-resources/tree/master/images/Java-9-modules-cheat-sheet.png">
 
 </p>
