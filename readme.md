@@ -160,6 +160,11 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
+## Java Code Challenges
+1. [Java Challengers #1: Method overloading in the JVM](https://www.javaworld.com/article/3268983/learn-java/java-challengers-1-method-overloading-in-the-jvm.html)
+
+
+
 ## Java tutorials & Coding Projects/ Ideas
 1. [Mkyong](http://www.mkyong.com/)
 2. [Coding Dojo](http://codingdojo.org/kata/)
