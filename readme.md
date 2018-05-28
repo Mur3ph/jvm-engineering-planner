@@ -7,26 +7,44 @@ Each Java/Java EE version has new features. You should have a book that at least
 This is different for other technologies. It doesn't make much sense to learn HTML4 and CSS2 now. With MDN, Jenkov, vogella and w3schools you can just learn HTML5 and CSS3. Instead of learning JavaScript you can learn TypeScript, which is already where ECMASCript 6 is heading, with class based OOP, arrow functions, constants, and block scoped variables.
 
 ## Java resources
+1. [Google News on Java](https://www.google.ie/search?q=java&safe=active&tbm=nws&cad=h)
+2. [Java Code Geeks](http://www.javacodegeeks.com/)
+3. [Java on Oracle Technology Network(OTN)](http://www.oracle.com/technetwork/java/index.html)
+4. [Java Magazine (New release every 2 months)](http://www.oracle.com/technetwork/java/javamagazine/index.html)
+5. [Java World](https://www.javaworld.com/)
+6. [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
+7. [JVM and Java Language Specification, Oracle](https://docs.oracle.com/javase/specs/)
+8. [Java Group FAQ](https://github.com/Javagroup123/group/wiki/FAQ)
+9. [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html)
+10. [Code for OpenJDK](http://hg.openjdk.java.net/)
+11.	[Code for OpenJDK: FileInputStream()](http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/0a5b87833562/src/share/native/java/io/FileInputStream.c)
+12. [GNU Classpath](http://www.gnu.org/software/classpath/)
+13. [Scanner](http://waltermilner.com/scanner.pdf)
+14. [Object Ordering](https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html)
+
+
+
+## Java 7
 1. [Java 7](https://docs.oracle.com/javase/7/docs/)
-  1. [Java 7: API](https://docs.oracle.com/javaee/7/api/)
-  2. [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
-  3. [Enhancements up to Java 7](https://docs.oracle.com/javase/7/docs/technotes/guides/language/enhancements.html)
-2. [Java 8](https://docs.oracle.com/javase/8/docs/)
-3. [Java 9](https://docs.oracle.com/javase/9/docs/)
-4. [Google News on Java](https://www.google.ie/search?q=java&safe=active&tbm=nws&cad=h)
-5. [Java Code Geeks](http://www.javacodegeeks.com/)
-6. [Java on Oracle Technology Network(OTN)](http://www.oracle.com/technetwork/java/index.html)
-7. [Java Magazine (New release every 2 months)](http://www.oracle.com/technetwork/java/javamagazine/index.html)
-8. [Java World](https://www.javaworld.com/)
-9. [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
-10. [JVM and Java Language Specification, Oracle](https://docs.oracle.com/javase/specs/)
-11. [Java Group FAQ](https://github.com/Javagroup123/group/wiki/FAQ)
-12. [Java EE](http://www.oracle.com/technetwork/java/javaee/overview/index.html)
-13. [Code for OpenJDK](http://hg.openjdk.java.net/)
-14.	[Code for OpenJDK: FileInputStream()](http://hg.openjdk.java.net/jdk8/jdk8/jdk/file/0a5b87833562/src/share/native/java/io/FileInputStream.c)
-15. [GNU Classpath](http://www.gnu.org/software/classpath/)
-16. [Scanner](http://waltermilner.com/scanner.pdf)
-17. [Object Ordering](https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html)
+2. [Java 7: API](https://docs.oracle.com/javaee/7/api/)
+3. [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se7/html/index.html)
+4. [Enhancements up to Java 7](https://docs.oracle.com/javase/7/docs/technotes/guides/language/enhancements.html)
+
+
+
+## Java 8
+1. [Java 8 Documents](https://docs.oracle.com/javase/8/docs/)
+
+
+
+## Java 9
+1. [Java 9 Documents](https://docs.oracle.com/javase/9/docs/)
+
+
+
+## Java 10
+1. [Java 10 Documents](https://docs.oracle.com/javase/10/docs/api/overview-summary.html)
+2. [Inference Cheat Sheet](https://snyk.io/blog/local-type-inference-java-cheat-sheet/)
 
 
 
@@ -119,7 +137,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 4. [Neuroph (Java Neural Network framework)](http://neuroph.sourceforge.net/)
 5. [Play](https://www.playframework.com/)
 6. [Vaadin](https://vaadin.com/)
-7. [AngularJS](https://angularjs.org/)
+7. [AngularJS](https://angularjs.org/) 
 8. [ReactJS](https://reactjs.org/)
 9. [JQuery](https://jquery.com/)
 10. [MOA: Machine learning Java Framework](https://moa.cms.waikato.ac.nz/)
@@ -141,6 +159,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 ### AngularJS
 1. [Angular](https://angular.io/)
 2. [AngularJS](https://angularjs.org/)
+3. [Angular: Conceptual Overview](https://docs.angularjs.org/guide/concepts/)
 
 
 
@@ -208,6 +227,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 8. [How to Get an Interview at (Almost) Any Company](https://jobtipsforgeeks.com/2016/11/08/getin/)
 9. [Which programming language is most useful for finding a job?](https://www.quora.com/Which-programming-language-is-most-useful-for-finding-a-job/answer/Simon-Huggins)
 10. [How to Get an Interview at (Almost) Any Company](https://jobtipsforgeeks.com/2016/11/08/getin/)
+11. [JVM Architecture 101: Get to Know Your Virtual Machine](https://blog.takipi.com/jvm-architecture-101-get-to-know-your-virtual-machine/)
 
 
 
