@@ -68,6 +68,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 5. [Facade(REST)](https://dzone.com/articles/design-patterns-uncovered-1)
 6. [Singleton](https://stackoverflow.com/questions/70689/what-is-an-efficient-way-to-implement-a-singleton-pattern-in-java)
 7. [The Big Ball of Mud :)](https://en.wikipedia.org/wiki/Big_ball_of_mud)
+8. [Flyweight](https://nobugsproject.com/2017/10/11/design-patterns-saga-18-real-project-situations-with-flyweight/)
 
 
 
