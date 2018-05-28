@@ -122,6 +122,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 7. [AngularJS](https://angularjs.org/)
 8. [ReactJS](https://reactjs.org/)
 9. [JQuery](https://jquery.com/)
+10. [MOA: Machine learning Java Framework](https://moa.cms.waikato.ac.nz/)
 
 
 
