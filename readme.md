@@ -186,9 +186,14 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
-## Java tutorials & Coding Projects/ Ideas
+## Java tutorials
 1. [Mkyong](http://www.mkyong.com/)
-2. [Coding Dojo](http://codingdojo.org/kata/)
+2. [Java 8 Lambda Expressions](http://tutorials.jenkov.com/java/lambda-expressions.html)
+
+
+
+## Coding Projects & Ideas
+1. [Coding Dojo](http://codingdojo.org/kata/)
 
 
 
