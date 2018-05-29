@@ -228,6 +228,9 @@ This is different for other technologies. It doesn't make much sense to learn HT
 9. [Which programming language is most useful for finding a job?](https://www.quora.com/Which-programming-language-is-most-useful-for-finding-a-job/answer/Simon-Huggins)
 10. [How to Get an Interview at (Almost) Any Company](https://jobtipsforgeeks.com/2016/11/08/getin/)
 11. [JVM Architecture 101: Get to Know Your Virtual Machine](https://blog.takipi.com/jvm-architecture-101-get-to-know-your-virtual-machine/)
+12. [The Difference Between Containers and Virtual Machines](https://dyn.com/blog/kubernetes-the-difference-between-containers-and-virtual-machines/)
+13. [What is the JVM? Introducing the Java virtual machine](https://www.javaworld.com/article/3272244/core-java/what-is-the-jvm-introducing-the-java-virtual-machine.html)
+14. [Automated Testing Java Applications](https://www.theserverside.com/feature/Why-you-need-to-learn-these-automated-testing-tools-for-Java)
 
 
 
