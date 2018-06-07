@@ -189,6 +189,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 ## Java tutorials
 1. [Mkyong](http://www.mkyong.com/)
 2. [Java 8 Lambda Expressions](http://tutorials.jenkov.com/java/lambda-expressions.html)
+3. [Java Enums](http://tutorials.jenkov.com/java/enums.html)
 
 
 
