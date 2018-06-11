@@ -188,11 +188,12 @@ This is different for other technologies. It doesn't make much sense to learn HT
 
 
 
-## Java tutorials
+## Java tutorials and courses
 1. [Mkyong](http://www.mkyong.com/)
 2. [Java 8 Lambda Expressions](http://tutorials.jenkov.com/java/lambda-expressions.html)
 3. [Java Enums](http://tutorials.jenkov.com/java/enums.html)
 4. [Top 10 Java 9 Tutorials and Courses](http://www.java67.com/2018/01/top-10-java-9-tutorials-and-courses.html#ixzz5HkdvbTmT)
+5. [Introduction to Java (MIT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 
 
 
