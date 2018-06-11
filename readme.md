@@ -238,6 +238,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 12. [The Difference Between Containers and Virtual Machines](https://dyn.com/blog/kubernetes-the-difference-between-containers-and-virtual-machines/)
 13. [What is the JVM? Introducing the Java virtual machine](https://www.javaworld.com/article/3272244/core-java/what-is-the-jvm-introducing-the-java-virtual-machine.html)
 14. [Automated Testing Java Applications](https://www.theserverside.com/feature/Why-you-need-to-learn-these-automated-testing-tools-for-Java)
+15. [Java Collections in Java 9-10](https://dzone.com/articles/java-collections-are-evolving)
 
 
 
