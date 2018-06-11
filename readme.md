@@ -22,6 +22,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 13. [Scanner](http://waltermilner.com/scanner.pdf)
 14. [Object Ordering](https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html)
 15. [History of Java](https://www.google.com/search?q=history%20of%20java%20programming&ie=utf-8&oe=utf-8&client=firefox-b)
+16. [Fundamentals of Java](https://www.google.com/search?client=firefox-b&q=fundementals+of+java+programming&nfpr=1&sa=X&ved=0ahUKEwjzz-KP_cnbAhWPe8AKHYeGBAkQvgUIIigB&biw=768&bih=904)
 
 
 
@@ -240,6 +241,7 @@ This is different for other technologies. It doesn't make much sense to learn HT
 13. [What is the JVM? Introducing the Java virtual machine](https://www.javaworld.com/article/3272244/core-java/what-is-the-jvm-introducing-the-java-virtual-machine.html)
 14. [Automated Testing Java Applications](https://www.theserverside.com/feature/Why-you-need-to-learn-these-automated-testing-tools-for-Java)
 15. [Java Collections in Java 9-10](https://dzone.com/articles/java-collections-are-evolving)
+16. [5 Things Every Java Programmer Should Learn](https://dzone.com/articles/5-things-java-programmer-should-learn-in-2018)
 
 
 
