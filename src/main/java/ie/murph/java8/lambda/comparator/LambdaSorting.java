@@ -1,4 +1,4 @@
-package ie.murph.java8.lambda.comparator;
+package main.java.ie.murph.java8.lambda.comparator;
 
 import java.util.List;
 
