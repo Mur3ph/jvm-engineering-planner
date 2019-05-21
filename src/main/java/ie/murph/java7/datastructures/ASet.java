@@ -9,7 +9,7 @@ public class ASet { //implements SortedSet<Object>{
 	
 	private static Set set;
 
-	public static void main(){
+	public static void main(String[] args){
 		set = new HashSet();
 		set = new LinkedHashSet();
 		set = new TreeSet();

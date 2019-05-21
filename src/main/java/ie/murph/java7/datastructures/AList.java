@@ -9,6 +9,9 @@ public class AList {
 	
 	private List<String> list;
 	
+	public static void main(String[] args){
+	}
+	
 	public void createStringArrayList(){
 		list = new ArrayList<String>();
 	}

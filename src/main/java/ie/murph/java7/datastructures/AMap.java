@@ -10,7 +10,7 @@ public class AMap {
 	private static Map map;
 	private static Hashtable hashTable;
 
-	public static void main(){
+	public static void main(String[] args){
 		map = new HashMap();
 		map = new TreeMap();
 		hashTable = new Hashtable();

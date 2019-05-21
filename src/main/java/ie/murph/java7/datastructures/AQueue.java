@@ -7,7 +7,7 @@ public class AQueue {
 
 	private static Queue q;
 
-	public static void main(){
+	public static void main(String[] args){
 		q = new PriorityQueue();
 	}
 }
