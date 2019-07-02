@@ -15,16 +15,31 @@ public class AMap {
 		
 		map = aMap.createHashMap();
 		map.put('A', "Apple");
+		map.put('D', "Dog");
+		map.put('B', "Ball");
 		System.out.println(map.hashCode());
+		map.entrySet().forEach(entry->{
+		    System.out.println(entry.getKey() + " " + entry.getValue());  
+		 });
 		
 		map = aMap.createTreeMap();
 		map.clear();
 		map.put('B', "Ball");
+		map.put('E', "Electricity");
+		map.put('C', "CAble");
 		System.out.println(map.hashCode());
+		map.entrySet().forEach(entry->{
+		    System.out.println(entry.getKey() + " " + entry.getValue());  
+		 });
 		
 		hashTable = aMap.createHashtable();
 		hashTable.put('P', "Purple");
+		hashTable.put('O', "Otter");
+		hashTable.put('Q', "Queen");
 		System.out.println(hashTable.hashCode());
+		hashTable.entrySet().forEach(entry->{
+		    System.out.println(entry.getKey() + " " + entry.getValue());  
+		 });
 	}
 	
 	private HashMap<Character, String> createHashMap(){
