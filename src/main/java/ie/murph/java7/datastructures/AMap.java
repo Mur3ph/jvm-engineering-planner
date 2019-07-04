@@ -7,51 +7,42 @@ import java.util.TreeMap;
 
 public class AMap {
 
-	private static Map<Character, String> map;
-	private static Hashtable<Character, String> hashTable;
-
-	public static void main(String[] args){
-		AMap aMap = new AMap();
-		
-		map = aMap.createHashMap();
-		map.put('A', "Apple");
-		map.put('D', "Dog");
-		map.put('B', "Ball");
-		System.out.println(map.hashCode());
-		map.entrySet().forEach(entry->{
-		    System.out.println(entry.getKey() + " " + entry.getValue());  
-		 });
-		
-		map = aMap.createTreeMap();
-		map.clear();
-		map.put('B', "Ball");
-		map.put('E', "Electricity");
-		map.put('C', "CAble");
-		System.out.println(map.hashCode());
-		map.entrySet().forEach(entry->{
-		    System.out.println(entry.getKey() + " " + entry.getValue());  
-		 });
-		
-		hashTable = aMap.createHashtable();
-		hashTable.put('P', "Purple");
-		hashTable.put('O', "Otter");
-		hashTable.put('Q', "Queen");
-		System.out.println(hashTable.hashCode());
-		hashTable.entrySet().forEach(entry->{
-		    System.out.println(entry.getKey() + " " + entry.getValue());  
-		 });
-	}
-	
-	private HashMap<Character, String> createHashMap(){
+	public HashMap<Character, String> createHashMap(){
 		return new HashMap<Character, String>();
 	}
 	
-	private TreeMap<Character, String> createTreeMap(){
+	public void populateHashMap(Map<Character, String> l_map) {
+		l_map.put('A', "Apple");
+		l_map.put('D', "Dog");
+		l_map.put('B', "Ball");
+		System.out.println("Hashcode: " + l_map.hashCode());
+	}
+
+	public TreeMap<Character, String> createTreeMap(){
 		return new TreeMap<Character, String>();
 	}
 	
-	private Hashtable<Character, String> createHashtable(){
+	public void populateTreeMap(Map<Character, String> l_map) {
+		l_map.put('B', "Ball");
+		l_map.put('E', "Electricity");
+		l_map.put('C', "CAble");
+		System.out.println("Hashcode: " + l_map.hashCode());
+	}
+	
+	public Hashtable<Character, String> createHashtable(){
 		return new Hashtable<Character, String>();
 	}
-
+	
+	public void populateHashTable(Hashtable<Character, String> l_hashTable) {
+		l_hashTable.put('P', "Purple");
+		l_hashTable.put('O', "Otter");
+		l_hashTable.put('Q', "Queen");
+		System.out.println("Hashcode: " + l_hashTable.hashCode());
+	}
+	
+	public void printMap(Map<Character, String> l_map) {
+		l_map.entrySet().forEach(entry->{
+		    System.out.println(entry.getKey() + " " + entry.getValue()); 
+		 });
+	}
 }
