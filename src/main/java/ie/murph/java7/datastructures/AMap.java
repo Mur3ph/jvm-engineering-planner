@@ -15,7 +15,6 @@ public class AMap {
 		l_map.put('A', "Apple");
 		l_map.put('D', "Dog");
 		l_map.put('B', "Ball");
-		System.out.println("Hashcode: " + l_map.hashCode());
 	}
 
 	public TreeMap<Character, String> createTreeMap(){
@@ -26,7 +25,6 @@ public class AMap {
 		l_map.put('B', "Ball");
 		l_map.put('E', "Electricity");
 		l_map.put('C', "CAble");
-		System.out.println("Hashcode: " + l_map.hashCode());
 	}
 	
 	public Hashtable<Character, String> createHashtable(){
@@ -37,12 +35,15 @@ public class AMap {
 		l_hashTable.put('P', "Purple");
 		l_hashTable.put('O', "Otter");
 		l_hashTable.put('Q', "Queen");
-		System.out.println("Hashcode: " + l_hashTable.hashCode());
 	}
 	
 	public void printMap(Map<Character, String> l_map) {
 		l_map.entrySet().forEach(entry->{
 		    System.out.println(entry.getKey() + " " + entry.getValue()); 
 		 });
+	}
+	
+	public void convertToHashCOde(Map<Character, String> l_map){
+		System.out.println("Hashcode: " + l_map.hashCode());
 	}
 }

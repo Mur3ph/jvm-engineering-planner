@@ -16,18 +16,21 @@ public class RunDataStructures {
 		map = aMap.createHashMap();
 		aMap.populateHashMap(map);
 		aMap.printMap(map);
+		aMap.convertToHashCOde(map);
 		
 		System.out.println();
 		
 		map = aMap.createTreeMap();
 		aMap.populateTreeMap(map);
 		aMap.printMap(map);
+		aMap.convertToHashCOde(map);
 		
 		System.out.println();
 		
 		hashTable = aMap.createHashtable();
 		aMap.populateHashTable(hashTable);
 		aMap.printMap(hashTable);
+		aMap.convertToHashCOde(hashTable);
 	}
 	
 }
