@@ -1,7 +1,7 @@
-package main.java.ie.murph.java8.lambda;
+package main.java.ie.murph.java8.functional.programming.lambda;
 
-import main.java.ie.murph.java8.lambda.comparator.Java7Sorting;
-import main.java.ie.murph.java8.lambda.comparator.LambdaSorting;
+import main.java.ie.murph.java8.functional.programming.lambda.comparator.Java7Sorting;
+import main.java.ie.murph.java8.functional.programming.lambda.comparator.LambdaSorting;
 
 public class RunSorting {
 	

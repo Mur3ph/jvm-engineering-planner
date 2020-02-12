@@ -1,10 +1,10 @@
-package main.java.ie.murph.java8.lambda;
+package main.java.ie.murph.java8.functional.programming.lambda;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-import main.java.ie.murph.java8.lambda.comparator.Developer;
+import main.java.ie.murph.java8.functional.programming.lambda.comparator.Developer;
 
 public final class CreateDeveloperGUI {
 

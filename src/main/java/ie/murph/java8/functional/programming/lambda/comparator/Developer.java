@@ -1,4 +1,4 @@
-package main.java.ie.murph.java8.lambda.comparator;
+package main.java.ie.murph.java8.functional.programming.lambda.comparator;
 
 import java.math.BigDecimal;
 
