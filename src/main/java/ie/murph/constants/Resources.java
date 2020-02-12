@@ -17,5 +17,5 @@ public enum Resources
     public String toString() 
     {
         return this.text;
-}
+    }
 }

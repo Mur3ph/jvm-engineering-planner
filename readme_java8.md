@@ -1,6 +1,7 @@
 
 # JAVA 8 - Cheat Sheet
 
+
 ## Lambda Expression
 ```java
 (int a) -> a * 2; // Calculate the double of a
@@ -40,6 +41,7 @@ List<String> list = [Bohr, Darwin, Galilei, Tesla, Einstein, Newton]
 ```
 
 
+
 ## Collections
 
 **sort** `sort(list, comparator)`
@@ -77,6 +79,7 @@ names.merge("Newname", "stein", (old, val) -> old.substring(0, 3) + val);
 ```
 
 
+
 ## Method Expressions `Class::staticMethod`
 
 Allows to reference methods (and constructors) without executing them
@@ -97,6 +100,7 @@ getPrimes(numbers, StaticMethod::isPrime);
 | `System.out::println`   | `x -> System.out.println(x)` |
 | `Double::new`           | `n -> new Double(n)` |
 | `String[]::new`         | `(int n) -> new String[n]` |
+
 
 
 ## Streams
@@ -214,31 +218,7 @@ res = stream.sorted();
 boolean res = words.allMatch(n -> n.contains("e"));
 ```
 
-anyMatch: Check if there is a "e" in an element<br>
-noneMatch: Check if there is no "e" in elements
 
-**parallel**
-Returns an equivalent stream that is parallel
-
-**findAny**
-faster than findFirst on parallel streams
-
-### Primitive-Type Streams
-
-Wrappers (like Stream<Integer>) are inefficients. It requires a lot of unboxing and boxing for each element. Better to use `IntStream`, `DoubleStream`, etc.
-
-**Creation**
-
-```java
-IntStream stream = IntStream.of(1, 2, 3, 5, 7);
-stream = IntStream.of(myArray); // from an array
-stream = IntStream.range(5, 80); // range from 5 to 80
-
-Random gen = new Random();
-IntStream rand = gen(1, 9); // stream of randoms
-```
-
-Use *mapToX* (mapToObj, mapToDouble, etc.) if the function yields Object, double, etc. values.
 
 ### Grouping Results
 
@@ -273,7 +253,6 @@ Count the number of values in a group
 Collectors.averagingInt(String::length)
 ```
 
-*PS*: Don't forget Optional (like `Map<T, Optional<T>>`) with some Collection methods (like `Collectors.maxBy`).
 
 
 ### Parallel Streams
@@ -292,7 +271,6 @@ Can speed up the `limit` or `distinct`
 stream.parallelStream().unordered().distinct();
 ```
 
-*PS*: Work with the streams library. Eg. use `filter(x -> x.length() < 9)` instead of a `forEach` with an `if`.
 
 
 ## Optional
@@ -330,25 +308,7 @@ interface Pair<A, B> {
     A first();
     B second();
 }
-```
 
-A steam of type `Stream<Pair<String, Long>>` :
-
- - `stream.sorted(Comparator.comparing(Pair::first)) // ok`
- - `stream.sorted(Comparator.comparing(Pair::first).thenComparing(Pair::second)) // dont work`
-
-Java cannot infer type for the `.comparing(Pair::first)` part and fallback to Object, on which `Pair::first` cannot be applied.
-
-The required type for the whole expression cannot be propagated through the method call (`.thenComparing`) and used to infer type of the first part.
-
-Type *must* be given explicitly.
-
-```java
-stream.sorted(
-    Comparator.<Pair<String, Long>, String>comparing(Pair::first)
-    .thenComparing(Pair::second)
-) // ok
-```
 
 ---
 
